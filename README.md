@@ -21,7 +21,7 @@ JotSync is an innovative Content Management System built for content creators to
 
 ## Contributing
 
-Contributions to JotSync are welcome! Whether it's bug fixes, feature enhancements, or feedback, feel free to contribute to make JotSync even better. Check out the [Contribution Guidelines](CONTRIBUTING.md) for more information.
+Contributions to JotSync are welcome! Whether it's bug fixes, feature enhancements, or feedback, feel free to contribute to make JotSync even better.
 
 
 ## Acknowledgements
