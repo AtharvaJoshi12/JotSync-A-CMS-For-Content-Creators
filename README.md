@@ -1,6 +1,6 @@
-# JotSync
+# JotSync - A CMS For Content Creators
 
-JotSync is an advanced note-taking application designed to revolutionize your productivity experience. Built using Next.js 13, React, Convex, Tailwind, and more, JotSync offers a seamless and feature-rich workspace for better, faster work.
+JotSync is an innovative Content Management System built for content creators to transform their productivity experience. Built using Next.js 14, React, Convex, Tailwind, and more. JotSync offers a seamless and feature-rich workspace for better, faster work.
 
 ## Key Features
 
@@ -16,30 +16,17 @@ JotSync is an advanced note-taking application designed to revolutionize your pr
 - **Full Mobile Responsiveness**: Access your notes and documents on the go with full mobile responsiveness.
 - **Publish to Web**: Share your notes with the world by publishing them to the web directly from JotSync.
 - **Fully Collapsible Sidebar**: Maximize your workspace with a fully collapsible sidebar for distraction-free note-taking.
-- **Landing Page**: Welcome to JotSync with a beautifully designed landing page.
-- **Cover Images**: Personalize your notes with cover images for each document.
 - **Recover Deleted Files**: Never lose important data with the ability to recover deleted files.
 
-## Getting Started
-
-To get started with JotSync, follow these simple steps:
-
-1. **Clone the Repository**: Clone the JotSync repository to your local machine.
-2. **Install Dependencies**: Run `npm install` to install all necessary dependencies.
-3. **Start the Development Server**: Launch the development server by running `npm run dev`.
-4. **Explore JotSync**: Access JotSync through your preferred web browser and start taking notes!
 
 ## Contributing
 
 Contributions to JotSync are welcome! Whether it's bug fixes, feature enhancements, or feedback, feel free to contribute to make JotSync even better. Check out the [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
-## License
-
-JotSync is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the software according to the terms outlined in the license.
 
 ## Acknowledgements
 
-JotSync wouldn't be possible without the contributions of various open-source projects and libraries. We extend our gratitude to the developers and maintainers of these projects.
+JotSync wouldn't be possible without the contributions of various open-source projects and libraries. I extend my gratitude to the developers and maintainers of these projects.
 
 ---
 
